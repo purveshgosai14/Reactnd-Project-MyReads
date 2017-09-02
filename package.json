@@ -5,6 +5,8 @@
     "react-dom": "^15.5.4"
   },
   "devDependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
     "react-scripts": "0.9.5"
   },
   "scripts": {
