@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import Search from './Search';
 
 class Book extends Component {
-render(){
+
+    render(){
     const { book, updateShelf } = this.props;
 
     return(

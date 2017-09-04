@@ -1,6 +1,11 @@
 import React, {Component} from 'react';
 
 class Search extends Component {
+
+    /**
+     * @description wrap our main API call func
+     */
+
     handleSelectChange = (e) => {
         e.preventDefault();
         console.log("curent", this.props);

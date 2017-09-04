@@ -1,10 +1,10 @@
-import React, { Component } from 'react'
-import BooksGrid from './BooksGrid'
+import React, { Component } from 'react';
+import BooksGrid from './BooksGrid';
 
 class BookShelf extends Component {
 
     render(){
-        const { title, books, updateShelf } = this.props
+        const { title, books, updateShelf } = this.props;
 
         return(
             <div className="bookshelf">
@@ -17,4 +17,4 @@ class BookShelf extends Component {
     }
 }
 
-export default BookShelf
+export default BookShelf;
