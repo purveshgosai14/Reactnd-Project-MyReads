@@ -11,7 +11,7 @@
 ## Screenshots
 
 ### Main Page
-https://github.com/purveshgosai14/Reactnd-Project-MyReads/blob/master/Main%20Page.png
+Reactnd-Project-MyReads/Want to read.png
 
 https://github.com/purveshgosai14/Reactnd-Project-MyReads/blob/master/Read.png
 
