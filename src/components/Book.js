@@ -2,10 +2,9 @@ import React, { Component } from 'react';
 import Search from './Search';
 
 class Book extends Component {
-
     render(){
     const { book, updateShelf } = this.props;
-
+        
     return(
         <li>
             <div className="book">
