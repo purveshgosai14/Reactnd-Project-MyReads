@@ -7,6 +7,7 @@ class Search extends Component {
      */
 
     handleSelectChange = (e) => {
+
         e.preventDefault();
         console.log("curent", this.props);
         if (this.props.updateShelf) {
