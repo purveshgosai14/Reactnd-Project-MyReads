@@ -1,4 +1,4 @@
-# MyReads Project by Purveshpuri Gosai
+# MyReads Project: Udacity React Nanodegree Project
 
 ## Installation
 
